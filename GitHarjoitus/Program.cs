@@ -14,7 +14,7 @@ namespace GitHarjoitus
 
             Console.WriteLine("Laske lukujen 1002 ja 88 summa");
             int summa = laskimeni.Summa(1002, 88);
-            Console.WriteLine("Summa on: " + Summa);
+            Console.WriteLine("Summa on: " + summa);
 
         }
     }
