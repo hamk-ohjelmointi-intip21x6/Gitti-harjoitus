@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace GitHarjoitus
+namespace GitHarjoitus // JEEE SE TOIMII WOHOOOOOO!
 {
     class Program
     {
