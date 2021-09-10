@@ -16,5 +16,9 @@ namespace GitHarjoitus
         {
             return luku1 + luku2;
         }
+        public int Tulo(int luku1, int luku2)
+        {
+            return luku1 * luku2;
+        }
     }
 }
